@@ -1,2 +1,2 @@
-<title>康文昌的在线HTML 教学小工具</title>
+<title>if chong</title>
 <p>你好，这里是阿冲的个人网站，现在刚建起来啥都没有哈哈哈</p>
