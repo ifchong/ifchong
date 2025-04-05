@@ -1,7 +1,12 @@
 
 </head>
 <body>
-    <h1 style="text-align:center;">你好，这里是阿冲的个人网站</h1>
+    <h1>你好，这里是阿冲的个人网站</h1>
+    <div style="
+        background-color:#FFA500;
+        text-align:center;
+        padding:40px;
+    ">
     <div style="
         background-color:#FFA500;
         text-align:center;
