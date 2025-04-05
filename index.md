@@ -12,7 +12,7 @@
         text-align:center;
         padding:40px;
     ">
-        <img>src="https://i.imgs.ovh/2025/04/05/OD74Y.jpeg" alt="OD74Y.jpeg" border="0" </img>
+        <img src="https://i.imgs.ovh/2025/04/05/OD74Y.jpeg" alt="OD74Y.jpeg" border="0" >
     </div>
 </body>
 </html>
