@@ -1,6 +1,6 @@
 <h1>你好，这里是阿冲的个人网站</h1>
 <div style="
-  background-color:#f1f1f1;
+  background-color:#f1f1f2;
   text-align:center;
   padding:40px;
   ">
