@@ -1,6 +1,4 @@
-<h1 style="
-  background-color:#f1f1f1;
-  text-align:center;>你好，这里是阿冲的个人网站</h1>
+<h1>你好，这里是阿冲的个人网站</h1>
 <div style="
   background-color:#f1f1f1;
   text-align:center;
