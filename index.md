@@ -19,6 +19,7 @@
    <img src="https://i.imgs.ovh/2025/04/05/OD74Y.jpeg" alt="盖亚.jpeg" width="500px" height="500px"border="0"> </img> 
 </div>
     
-    <p>在此处开始写html代码，下面将会实时显示效果。</p>
+    <p style="
+  text-align:center>你好，这里是阿冲的个人网站</p>
   </body>
 </html>
