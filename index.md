@@ -1,3 +1,16 @@
-<title>阿冲的个人网站</title>
- <img src="https://i.imgs.ovh/2025/04/05/OD74Y.jpeg" alt="OD74Y.jpeg" border="0"> </img> 
-<p>这张拍的是真好吧嘻嘻</p>
+<!DOCTYPE html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>康文昌的在线HTML 教学小工具</title>
+    <style>  
+      body {
+        margin: 0;
+      }
+    </style>
+  </head>
+  <body>
+    <p>在此处开始写html代码，下面将会实时显示效果。</p>
+  </body>
+</html>
