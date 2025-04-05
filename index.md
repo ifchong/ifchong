@@ -10,6 +10,6 @@
     <p>这是一个简单的网页示例。</p>
     <a href="https://www.example.com">访问示例网站</a>
     <br>
-    <img src="https://via.placeholder.com/150" alt="示例图像">
+    <img src="https://i.imgs.ovh/2025/04/05/OD74Y.jpeg" alt="OD74Y.jpeg" border="0" />
 </body>
 </html>
