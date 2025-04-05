@@ -12,7 +12,7 @@
         text-align:center;
         padding:40px;
     ">
-        <img src="OD74Y.jpeg" alt="盖亚.jpeg" border="0">
+        <img src=["OD74Y.jpeg" alt="盖亚.jpeg" border="0"]>
     </div>
 </body>
 </html>
