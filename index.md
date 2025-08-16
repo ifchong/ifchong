@@ -7,8 +7,8 @@
 </head>
 <body>
     <h1>欢迎来到我的个人网站</h1>
-    <p>这是一个简单的网页示例。</p>
-    <a href="https://www.example.com">访问示例网站</a>
+    <p>跳转链接（试用）</p>
+    <a href="https://seicing.com/html/aoe2/index-aoe4units.html?civ=chi">肥猫的秘密基地（帝Ⅳ）</a>
     <br>
     <img src="https://i.imgs.ovh/2025/04/05/OD74Y.jpeg" alt="OD74Y.jpeg" border="0" />
 </body>
