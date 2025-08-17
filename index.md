@@ -15,8 +15,8 @@
     <title>小记</title>
     <style>
         .beige-box {
-            width: 1000px;                /* 宽度 */
-            height: 1000px;               /* 高度 */
+            width: 500px;                /* 宽度 */
+            height: 500px;               /* 高度 */
             background-color: #f5f5dc;   /* 米白色背景 */
             border: 1px solid #ddd;      /* 可选：浅灰色边框 */
             display: flex;               /* 可选：用于内部元素居中 */
